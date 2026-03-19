@@ -1,0 +1,10 @@
+# Dirección de robots para 3Web Designer
+User-agent: *
+Allow: /
+
+# Bloquear carpetas innecesarias (si las llegas a tener)
+Disallow: /private/
+Disallow: /config/
+
+# Enlace a tu Sitemap (Asegúrate de que sea HTTPS)
+Sitemap: https://3web3designer3.netlify.app/sitemap.xml
